@@ -1,17 +1,12 @@
-let x = 1;
-let y= 3;
-let s ='my' + ' string';
-alert(s);
+//Task 1
+let a =1, b=1;
 
-// alert( x ) ;
-// alert ( y - x );
+let c = ++a;//2 the operation increament first then assign;
+let d = b++;//1; the operation assigned first then increament;
 
-// alert (5 % 2);
-// alert (8 % 3);
+let a =2;
+let x=1 + (a*=2); //5
 
-// alert( 2**2 ); 
-// alert( 2**3 );
-// alert( 2**4 );
 
-// alert( 2** (1/2))
-// alert(2** (3/4))
+//type conversion
+
